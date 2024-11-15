@@ -1,0 +1,17 @@
+{
+    "Greater than or equal to": {
+      "prefix": "ge", 
+      "body": "≥",
+      "description": "Greater than or equal to"
+    },
+    "Less than or equal to": {
+      "prefix": "le", 
+      "body": "≤",
+      "description": "Less than or equal to"
+    },
+    "Not equal to": {
+      "prefix": "ne", 
+      "body": "≠",
+      "description": "Not equal to"
+    }
+  }
